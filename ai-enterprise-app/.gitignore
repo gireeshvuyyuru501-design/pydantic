@@ -1,0 +1,10 @@
+venv/
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+.env
+.vscode/
+dist/
+build/
+procurement.db
